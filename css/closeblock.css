@@ -1,0 +1,11 @@
+.closeblock {
+  float: right;
+}
+
+.closeblock-button {
+  cursor: pointer;
+}
+
+.close-block {
+  display: none;
+}
